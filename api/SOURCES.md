@@ -7,3 +7,7 @@
 | [FrostAtom/awesome_wotlk](https://github.com/FrostAtom/awesome_wotlk/blob/3cbae1e3f7dc0a676b9391d7b6c2a09c33e02ef8/docs/api_reference.md) | main, Commit 3cbae1e3f7dc0a676b9391d7b6c2a09c33e02ef8, docs/api_reference.md | Zehn dokumentierte optionale Funktionen, Nameplate-Events und CVars. Installierte Clientvariante separat prüfen. |
 
 Die Standarddefinitionen sind eine Auswahl gebräuchlicher Aufrufe. Die Typen stammen aus beobachteter Verwendung und dokumentieren teilweise nur die für Auren relevanten Rückgaben. Die WA-Definitionen sind bis zum Vergleich mit dem installierten Add-on vorläufig.
+
+## Import der bereitgestellten LuaLS-Dateien
+
+Die beiden Editorbibliotheken stammen aus den bereitgestellten Dateien wotlk-api.d.lua und awesome-wotlk-api.d.lua. Deren Header nennt die APIDocumentation aus NoM0Re/WeakAuras-WotLK, Commit 6d6b7a5c155f275672523c3d7b32a7fa766d6132 (Version 5.22.0). Dateibezogene Quellenkommentare und die eingebettete GPL-2.0-Lizenz sind erhalten. Diese Sammlung erweitert die historische FrameXML-Auswahl. Einzelne Signaturen und Erweiterungen sind vom konkreten Client abhängig. Den NoM0Re-spezifischen Custom-Code-Abschnitt haben wir für die 4.0.0-Zielumgebung ausgelassen. Die zehn direkt dokumentierten AwesomeWotLK-Aufrufe sind eine Teilmenge der importierten Erweiterungen.
