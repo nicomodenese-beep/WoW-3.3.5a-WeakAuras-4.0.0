@@ -1,0 +1,30 @@
+{
+  "ccbf2b549bc98d96f3281fd5.lua": [
+    "d",
+    "actions",
+    "start",
+    "custom"
+  ],
+  "22064b2d4ffca8b55419e51c.lua": [
+    "d",
+    "actions",
+    "init",
+    "custom"
+  ],
+  "c1bc9602d8284287d87b3c54.lua": [
+    "d",
+    "triggers",
+    2,
+    "trigger",
+    "custom"
+  ],
+  "1c91e60a2f099f3585771d45.lua": [
+    "d",
+    "triggers",
+    "customTriggerLogic"
+  ],
+  "b78ad34a91c931c467a18745.lua": [
+    "d",
+    "customText"
+  ]
+}

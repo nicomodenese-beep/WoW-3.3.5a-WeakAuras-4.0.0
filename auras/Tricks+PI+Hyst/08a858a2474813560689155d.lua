@@ -1,0 +1,4 @@
+{
+    activeEnd = "elapsedTimer",
+    expirationTime = true,
+}

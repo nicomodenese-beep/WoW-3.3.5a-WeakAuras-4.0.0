@@ -1,0 +1,1 @@
+WeakAuras.ScanEvents("RAID_COOLDOWNS","START_TRACKING","RAID_EXTERNALS","nil")

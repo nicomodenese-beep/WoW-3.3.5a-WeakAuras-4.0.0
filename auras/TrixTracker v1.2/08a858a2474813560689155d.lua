@@ -1,0 +1,4 @@
+{
+    dmgUptime = "number",
+    dmgBuffActive = "bool",
+}

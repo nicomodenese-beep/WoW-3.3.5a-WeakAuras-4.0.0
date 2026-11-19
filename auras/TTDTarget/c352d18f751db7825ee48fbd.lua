@@ -1,0 +1,1 @@
+WeakAuras.timer:CancelTimer(aura_env.timerID) -- cancel timer before starting new one

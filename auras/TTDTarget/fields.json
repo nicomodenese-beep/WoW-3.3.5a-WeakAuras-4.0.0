@@ -1,0 +1,39 @@
+{
+  "b78ad34a91c931c467a18745.lua": [
+    "d",
+    "customText"
+  ],
+  "22064b2d4ffca8b55419e51c.lua": [
+    "d",
+    "actions",
+    "init",
+    "custom"
+  ],
+  "c352d18f751db7825ee48fbd.lua": [
+    "d",
+    "actions",
+    "finish",
+    "custom"
+  ],
+  "82f1f6f4abc2e3ab00d23560.lua": [
+    "d",
+    "triggers",
+    1,
+    "trigger",
+    "customName"
+  ],
+  "595e025d528203353e6fe299.lua": [
+    "d",
+    "triggers",
+    1,
+    "trigger",
+    "custom"
+  ],
+  "5582d21adf18f43cec524a0d.lua": [
+    "d",
+    "triggers",
+    1,
+    "untrigger",
+    "custom"
+  ]
+}
