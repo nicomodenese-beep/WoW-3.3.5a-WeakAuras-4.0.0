@@ -1,0 +1,6 @@
+aura_env.region:ClearAllPoints()
+--aura_env.region:SetAnchor("TOPLEFT", PlayerFrame, "BOTTOMLEFT", 200, 200)
+aura_env.region:SetAnchor("TOPLEFT", aura_env.state.anchorTo, "BOTTOMLEFT")
+--print(aura_env.state.anchorIndex)
+aura_env.region:SetXOffsetRelative(aura_env.region.width * (aura_env.state.anchorIndex - 1))
+aura_env.region:SetYOffsetRelative(aura_env.state.isSelfCd and 0 or -aura_env.region.height)

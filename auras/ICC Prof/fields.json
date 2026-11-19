@@ -1,0 +1,68 @@
+{
+  "bb41ef5cb307f57d648214df.lua": [
+    "c",
+    1,
+    "customAnchor"
+  ],
+  "19b9c3d716e7562928b4bc89.lua": [
+    "c",
+    2,
+    "customText"
+  ],
+  "36284da92644fa9f44102474.lua": [
+    "c",
+    2,
+    "customAnchor"
+  ],
+  "aad7730b02331957351a8170.lua": [
+    "c",
+    2,
+    "actions",
+    "start",
+    "custom"
+  ],
+  "73e3d6992cae472194847b3c.lua": [
+    "c",
+    2,
+    "actions",
+    "finish",
+    "custom"
+  ],
+  "bb99956b2ca7e706854b703a.lua": [
+    "c",
+    2,
+    "actions",
+    "init",
+    "custom"
+  ],
+  "16b694ef015653bcf1fb622a.lua": [
+    "c",
+    3,
+    "actions",
+    "start",
+    "custom"
+  ],
+  "160db971e2ab6fe1cfdc9d8d.lua": [
+    "c",
+    3,
+    "actions",
+    "init",
+    "custom"
+  ],
+  "24ee16f9a1d2456bc444897f.lua": [
+    "c",
+    3,
+    "triggers",
+    1,
+    "trigger",
+    "customVariables"
+  ],
+  "d9f441f8992ed7ee347d0122.lua": [
+    "c",
+    3,
+    "triggers",
+    1,
+    "trigger",
+    "custom"
+  ]
+}

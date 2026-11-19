@@ -1,0 +1,25 @@
+{
+  "6640aa1e1c589b1d45c941d6.lua": [
+    "c",
+    1,
+    "actions",
+    "init",
+    "custom"
+  ],
+  "e8b29a7c97e7fcdcd800fed7.lua": [
+    "c",
+    1,
+    "triggers",
+    1,
+    "trigger",
+    "custom"
+  ],
+  "08a858a2474813560689155d.lua": [
+    "c",
+    1,
+    "triggers",
+    1,
+    "trigger",
+    "customVariables"
+  ]
+}
