@@ -1,0 +1,4 @@
+{
+  "folders": [{"path":"."}],
+  "settings": {"Lua.workspace.ignoreDir":[".venv",".git"],"Lua.runtime.version":"Lua 5.1","Lua.misc.parameters":["--configpath=.luarc-awesome.json"]}
+}

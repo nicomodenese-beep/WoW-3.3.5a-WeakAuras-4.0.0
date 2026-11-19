@@ -1,0 +1,6 @@
+{
+  "runtime.version": "Lua 5.1",
+  "workspace.ignoreDir": [".venv", ".git", "api/awesomewotlk-api.d.lua"],
+  "diagnostics.globals": [],
+  "diagnostics.enable": true
+}
